@@ -1,0 +1,8 @@
+body {
+    margin: 10px;
+}
+div{
+    background: black;
+    display: flex;
+    justify-content: center;
+}
